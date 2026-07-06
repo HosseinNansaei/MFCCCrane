@@ -177,7 +177,7 @@ pip
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/MFCCCrane.git
+git clone https://github.com/HosseinNansaei/MFCCCrane.git
 cd MFCCCrane
 
 # 2. Install dependencies
