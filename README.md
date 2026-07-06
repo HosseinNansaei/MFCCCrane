@@ -267,7 +267,7 @@ MFCCCrane/
 │   └── evaluation_results/
 │
 └── 📁 docs/                     # Documentation
-    └── project_report.pdf
+    
 ```
 
 ---
