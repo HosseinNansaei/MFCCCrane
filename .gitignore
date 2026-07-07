@@ -1,0 +1,88 @@
+# ============================================
+# Python
+# ============================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ============================================
+# Virtual Environment
+# ============================================
+venv/
+env/
+ENV/
+.venv
+
+# ============================================
+# IDE
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.spyproject/
+
+# ============================================
+# Data - Large files (compressed separately)
+# ============================================
+data/dataset_cleaned_final/
+data/dataset.zip
+data/dataset.rar
+data/dataset_cleaned_final.rar
+
+# ============================================
+# Models - Keep only improved versions
+# ============================================
+models/*.joblib
+models/*.npz
+
+# Allow improved versions
+!models/*_improved.joblib
+!models/*_improved.npz
+
+# ============================================
+# Results - Can be regenerated
+# ============================================
+results/benchmark_tables/charts/*.png
+results/evaluation_results/
+test_results/
+
+# ============================================
+# OS
+# ============================================
+.DS_Store
+Thumbs.db
+
+# ============================================
+# Jupyter Notebooks
+# ============================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ============================================
+# Logs
+# ============================================
+*.log
+
+# ============================================
+# Compressed files
+# ============================================
+*.zip
+*.rar
+*.tar.gz
+*.7z
+
+# ============================================
+# Temporary files
+# ============================================
+tmp_*.wav
+tmp_*.mp3
+command.wav
+command.json
