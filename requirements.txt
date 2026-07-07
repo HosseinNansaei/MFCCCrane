@@ -1,0 +1,23 @@
+# Core dependencies
+numpy>=1.19.0
+scipy>=1.5.0
+pandas>=1.0.0
+matplotlib>=3.2.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+joblib>=1.0.0
+
+# Audio Processing
+librosa>=0.8.0
+sounddevice>=0.4.0
+pygame>=2.0.0
+
+# Speech Recognition
+vosk>=0.3.0
+
+# Web & Utilities
+requests>=2.25.0
+
+# Optional
+tqdm>=4.60.0
