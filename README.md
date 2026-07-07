@@ -247,26 +247,27 @@ MFCCCrane/
 │   └── voice_model_improved.npz
 │
 ├── 📁 data/                     # Dataset and features
-│   ├── dataset_cleaned_final/   # Cleaned audio files
+│   ├── dataset_cleaned_final.zip   # Cleaned audio files
 │   │   ├── jelo/
 │   │   ├── aghab/
 │   │   ├── rast/
 │   │   ├── chap/
 │   │   └── ist/
+│   ├── data.zip   
 │   ├── features_table_enhanced.csv
 │   └── corrections_data.csv
 │
 ├── 📁 web/                      # Web interface
 │   └── index.html
 │
-├── 📁 results/                  # Benchmark and evaluation results
-│   ├── benchmark_tables/
-│   │   ├── charts/
-│   │   ├── *.csv
-│   │   └── complete_report.tex
-│   └── evaluation_results/
-│
-└── 📁 docs/                     # Documentation
+└── 📁 results/                  # Benchmark and evaluation results
+    ├── benchmark_tables.rar
+    │   
+    │   
+    │   
+    └── evaluation_results.rar
+
+
     
 ```
 
