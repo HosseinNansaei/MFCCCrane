@@ -246,14 +246,14 @@ MFCCCrane/
 │   ├── label_encoder_improved.joblib
 │   └── voice_model_improved.npz
 │
-├── 📁 data/                     # Dataset and features
-│   ├── dataset_cleaned_final.zip   # Cleaned audio files
+├── 📁 data/                       # Dataset and features
+│   ├── dataset_cleaned_final.rar  # Cleaned audio files
 │   │   ├── jelo/
 │   │   ├── aghab/
 │   │   ├── rast/
 │   │   ├── chap/
 │   │   └── ist/
-│   ├── data.zip   
+│   ├── data.rar   
 │   ├── features_table_enhanced.csv
 │   └── corrections_data.csv
 │
@@ -261,11 +261,11 @@ MFCCCrane/
 │   └── index.html
 │
 └── 📁 results/                  # Benchmark and evaluation results
-    ├── benchmark_tables.rar
+    ├── benchmark_tables.zip
     │   
     │   
     │   
-    └── evaluation_results.rar
+    └── evaluation_results.zip
 
 
     
